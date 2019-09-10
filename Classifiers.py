@@ -1,5 +1,5 @@
 """
-@author: Mihir Naresh Shah, Swapnil Sachin Shah
+@author: Mihir Naresh Shah
 Description: Classification of 2 or more subreddits using SVM and Random Forest classifier
             for multiclass classification. Using nltk to preprocess, clean, remove stopwords, stem,
             tokenize the data before classifying.
