@@ -1,5 +1,5 @@
 """
-@author: Mihir Naresh Shah, Swapnil Sachin Shah
+@author: Mihir Naresh Shah
 Description: Word clouds made for each dataset
 """
 
