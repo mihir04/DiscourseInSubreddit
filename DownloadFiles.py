@@ -1,5 +1,5 @@
 """
-@author: Mihir Naresh Shah, Swapnil Sachin Shah
+@author: Mihir Naresh Shah
 Description: Python code to extract subreddit and store in a json file
 """
 import praw
